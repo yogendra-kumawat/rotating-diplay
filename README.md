@@ -16,6 +16,8 @@
 </p>
 
 <hr>
+<h2> hardware structure</h2>
+<img width="1600" height="1204" alt="image" src="https://github.com/user-attachments/assets/59e1821d-1554-4ed2-8585-ad54104596aa" />
 
 
 
