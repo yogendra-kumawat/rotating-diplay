@@ -18,10 +18,10 @@
 <hr>
 <h2> hardware structure</h2>
 <img width="1600" height="1204" alt="image" src="https://github.com/user-attachments/assets/59e1821d-1554-4ed2-8585-ad54104596aa" />
-
-
-
+<h2>basically the project is undergoing</h2>
+https://github.com/user-attachments/assets/77975632-7e02-427e-ae57-4e433b93c832
 <h2>🏗️ System Architecture</h2>
+
 
 <h3>1. The Brain (Python / PC)</h3>
 <ul>
