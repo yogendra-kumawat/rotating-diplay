@@ -23,8 +23,7 @@ A custom-built,  **Persistence of Vision (POV)** display capable of streaming **
 - [Firmware Deep Dive](#-firmware-deep-dive)
 - [Timer Configuration](#-timer-configuration)
 - [Setup & Installation](#-setup--installation)
-- [Known Limitations & Roadmap](#-known-limitations--roadmap)
-
+ 
 ---
 
 ## 💡 How It Works
